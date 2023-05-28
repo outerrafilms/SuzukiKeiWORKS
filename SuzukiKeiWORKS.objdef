@@ -1,0 +1,12 @@
+{
+	"obj" : "SuzukiKeiWORKS", 
+	"matlib" : "SuzukiKeiWORKS", 
+	"lod_curve" : 850.0, 
+	"lod_curve1" : 300.0, 
+	"physics" : "vehicle", 
+	"script" : "SuzukiKeiWORKS.js", 
+	"description" : "Suzuki Kei WORKS", 
+	"parameters" : "", 
+	"fdm_root_dir" : "", 
+	"tags" : "", 
+	"variants" : []}
